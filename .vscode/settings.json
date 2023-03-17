@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Fluffy Dark Theme",
+  "quokka.darkTheme.log.decorationAttachmentRenderOptions": {
+  
+    "border": null,
+    "borderColor": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "textDecoration": null,
+    "color": "rgba(86, 156, 214, 1)",
+    "backgroundColor": null,
+    "margin": "1.2em",
+    "width": null,
+    "height": null
+  },
+  "nebula-theme.themeItalics": "2 - wavy",
+  "vsicons.associations.folderDefault.folder": null,
+  "workbench.colorCustomizations": {
+  
+  },
+  "editor.fontFamily": "Anonymous Pro"
+}
